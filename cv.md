@@ -1,6 +1,8 @@
 # CV#1. Markdown & Git
 ## _Chernysheva Svetlana_
 
+![mountains](https://phonoteka.org/30052-kot-za-kompjuterom-art.html "Котик за компуктером")
+
 ##### Contacts:
 - delusionkind@gmail.com
 - twitter.com/delusiontea
